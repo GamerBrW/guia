@@ -1,67 +1,19 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
-  <channel id="AXN">
-    <display-name lang="pt">AXN</display-name>
-    <icon src="../canais/1609906729.gif|../canais/globo.gif" />
-    <url>http://www.lineup.net.br</url>
-  </channel>
-  <channel id="AXN HD">
-    <display-name lang="pt">AXN HD</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="AMC">
-    <display-name lang="pt">AMC</display-name>
-    <icon src="../canais/panguipulli.gif" />
-    <url>http://www.lineup.net.br</url>
-  </channel>
-  <channel id="AMC HD">
-    <display-name lang="pt">AMC HD</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
   <channel id="Animal Planet">
     <display-name lang="pt">Animal Planet</display-name>
-    <icon src="../canais/smart.gif" />
-    <url>http://www.lineup.net.br</url>
+    <url>http://www.vivo.com.br</url>
   </channel>
   <channel id="Animal Planet HD">
     <display-name lang="pt">Animal Planet HD</display-name>
-    <url>http://www.meuguia.tv</url>
+    <url>http://www.vivo.com.br</url>
   </channel>
-  <channel id="Arte 1">
-    <display-name lang="pt">Arte 1</display-name>
-    <icon src="../canais/1572250314.gif|../canais/1592302022.gif" />
-    <url>http://www.lineup.net.br</url>
+  <channel id="AXN">
+    <display-name lang="pt">AXN</display-name>
+    <url>http://www.vivo.com.br</url>
   </channel>
-  <channel id="Arte 1 HD">
-    <display-name lang="pt">Arte 1 HD</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="Band">
-    <display-name lang="pt">Band</display-name>
-    <icon src="../canais/tc.gif" />
-    <url>http://www.lineup.net.br</url>
-  </channel>
-  <channel id="A&amp;E">
-    <display-name lang="pt">A&amp;E</display-name>
-    <icon src="../canais/canal10-montevideo.gif" />
-    <url>http://www.lineup.net.br</url>
-  </channel>
-  <channel id="A&amp;E HD">
-    <display-name lang="pt">A&amp;E HD</display-name>
-    <url>http://www.meuguia.tv</url>
-  </channel>
-  <channel id="BandNews">
-    <display-name lang="pt">Band News</display-name>
-    <icon src="../canais/1599426201.gif|../canais/1601463429.gif" />
-    <url>http://www.lineup.net.br</url>
-  </channel>
-  <channel id="BandSports">
-    <display-name lang="pt">Band Sports</display-name>
-    <icon src="../canais/tvaraucaria.gif|../canais/1573490506.gif" />
-    <url>http://www.lineup.net.br</url>
-  </channel>
-  <channel id="Band Sports HD">
-    <display-name lang="pt">Band Sports HD</display-name>
-    <url>http://www.meuguia.tv</url>
+  <channel id="AXN HD">
+    <display-name lang="pt">AXN HD</display-name>
+    <url>http://www.vivo.com.br</url>
   </channel>
 </tv>
